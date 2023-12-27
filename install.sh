@@ -67,7 +67,7 @@ executer() {
   fi
 }
 
-bienvenue ""
+bwelcome ""
 
 termine=false
 while [ "$termine" == false ]; do
